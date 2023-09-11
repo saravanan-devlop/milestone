@@ -1,0 +1,11 @@
+.imgsize{
+  height: 100px;
+  width: 100px;
+}
+td,th{
+  padding: 20px;
+}
+
+.linknone{
+  text-decoration: none;
+}
